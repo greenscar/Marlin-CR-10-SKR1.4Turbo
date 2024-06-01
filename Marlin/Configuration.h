@@ -485,7 +485,7 @@
   // If you are using a pre-configured hotend then you can use one of the value sets by uncommenting it
 
   // Stock CR-10 tuned for 70C
-  #define DDEFAULT_Kp 33.11
+  #define DEFAULT_Kp 33.11
   #define DEFAULT_Ki 2.86
   #define DEFAULT_Kd 95.71
   // Ultimaker
